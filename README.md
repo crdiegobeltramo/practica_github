@@ -1,2 +1,5 @@
 # practica_github
-Agustin Lorca
+
+
+###Diego Beltramo
+###Agustin Lorca
